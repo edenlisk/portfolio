@@ -39,3 +39,31 @@ code {
 .skills {
   font-size: 20px
 }
+
+.pricing-title {
+  font-family: 'Raleway', sans-serif;
+  color: #d8c8f2;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.big-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+.pricing-container {
+  background-color: #a37fdf;
+  min-height: 651px;
+}
+
+.pricing-paragraph {
+  color: #d8c8f2;
+  font-size: 20px;
+}
+
+.activities {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
