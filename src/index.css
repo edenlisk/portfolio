@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.expertise-container {
+  background-color: #59437a;
+  min-height: 90vh;
+}
+
+.my-skills {
+  font-family: 'Raleway', sans-serif;
+  color: #d8c8f2;
+}
+
+.expertise {
+  font-family: Montserrat, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.skills-paragraph {
+  font-size: 20px;
+}
+
+.skills-paragraph, .skills {
+  color: #d8c8f2;
+}
+
+.skills {
+  font-size: 20px
+}
