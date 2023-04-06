@@ -39,3 +39,35 @@ code {
 .skills {
   font-size: 20px
 }
+
+.contact-container {
+  background-color: #e73085;
+  min-height: 842px;
+}
+
+.contact-title {
+  color: #a37fdf;
+  font-size: 60px;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: bold;
+}
+
+.input-field, .message {
+  outline: none;
+  font-family: 'Raleway', sans-serif;
+}
+
+.message {
+  height: 8rem;
+}
+
+.button {
+  background-color: #59437a;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  height: 2.5rem;
+}
+
+.contact-paragraph {
+  color: #59437a;
+}
