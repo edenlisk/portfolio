@@ -11,3 +11,124 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.home-img{
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/b6e8c2a70906581b91e227b1/ss-min.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 633.9px;
+}
+.home-text{
+  min-height: 433.9px;
+}
+.into-text{
+  font-size:20px;
+  font-weight: bold;
+  color: #59437a;
+}
+.home-button{
+  background-color: #c262af;
+  /* width: 298px; */
+  /* border-radius: 8px; */
+  color: #ffff;
+  /* font-size: 18px; */
+  font-weight: bold;
+}
+.home-grid{
+  min-height: 633.9px;
+}
+.cards-grid{
+  /* max-width: 1076px; */
+  min-height:280px ;
+  background-color:transparent;
+  padding: 0px 60px;
+}
+.icon-container{
+  background-color:#e1b7bf ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:90px ;
+  width:90px ;
+}
+.icons-home{
+  width: 65px;
+  height:65px;
+  color: #434992;
+}
+.home-container{
+  background-color: #e1b7bf;
+}
+.home-bar{
+  width: 111px;
+  background-color: #59437a;
+  height: 4px;
+  margin: 20px 0px;
+}
+.home-card{
+  background-color: #ffff;
+  min-height: 210px;
+  width: 100%;
+  /* width: 70px; */
+}
+.home-card-title{
+  font-size: 20px;
+  font-weight: bold;
+  color: #434992;
+}
+.card-body{
+  border-top: 15px solid #59437a;
+  background-color: #ffff;
+  height: 362px;
+}
+.data-container{
+  background-color: #e1b7bf;
+  padding: 0 100px;
+}
+.data-grid{
+  padding: 0px 70px;
+}
+.data-grid-two{
+  background-color: #59437a;
+  min-height: 400px;
+  min-width: 40%;
+  background-size: cover;
+  color:#ffff
+}
+.data-card-title{
+  font-weight: bold;
+}
+.data-header{
+  color: #c262af;
+}
+.value{
+  font-size: 72px;
+  font-weight: bold;
+  color: #c262af;
+}
+.about-container{
+  background-color: #e1b7bf;
+  /* min-height: 903px; */
+}
+.about-cards-grid{
+  min-height: 1100px;
+  padding: 0px 70px
+}
+.about-img{
+  height: 214px;
+  width: 100%;
+  object-fit: cover;
+}
+.about-card{
+  background-color: #ffff;
+  height: 670px;
+}
+.about-title{
+  color: #c262af;
+  /* font-size: 60px; */
+}
+@media screen and (max-width:459px) {
+.cards-grid,.about-cards-grid,.data-grid{
+  padding: 0px 20px;
+}
+  
+}
