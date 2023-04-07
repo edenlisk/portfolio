@@ -16,7 +16,6 @@ function Home() {
           </button>
         </div>
       </div>
-      {/* <div className='container-fluid'> */}
       <div className="row g-4 cards-grid">
         <div className="col-12 col-md-6 col-lg-3 ">
           <div className="card border-0 rounded-0 p-3 d-flex flex-column align-items-center home-card">
@@ -51,7 +50,6 @@ function Home() {
           </div>
         </div>
       </div>
-      {/* </div> */}
     </div>
   );
 }

@@ -1,17 +1,7 @@
-import './App.css';
-import About from './components/About';
-import Data from './components/data';
-import Home from './components/home';
-
+import "./App.css";
 
 function App() {
-  return (
-      <div>
-        <Home/>
-        <Data/>
-        <About/>
-        </div>
-  );
+  return <div></div>;
 }
 
 export default App;
